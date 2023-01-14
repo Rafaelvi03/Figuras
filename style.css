@@ -1,7 +1,16 @@
-.cuadrado{
+.square{
     width: 200px;
     height: 200px;
     border: solid;
     color: blue;
-    background-color: black;
+    background-color: blue;
+}
+
+.rectangle{
+    width: 200px;
+    height: 100px;
+    border: solid 1px;
+    color: yellow;
+    background-color:yellow;
+    margin-top: 20px;
 }
